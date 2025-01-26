@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyCMakeExecutable.dir/src/main.cpp.o CMakeFiles/MyCMakeExecutable.dir/src/foo.cpp.o -o MyCMakeExecutable 

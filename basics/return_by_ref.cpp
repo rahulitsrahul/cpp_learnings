@@ -4,7 +4,7 @@ class MyClass {
 private:
     int value;
 
-public:
+public: 
     MyClass(int v) : value(v) {}
 
     // Function that returns a reference to the private member variable
